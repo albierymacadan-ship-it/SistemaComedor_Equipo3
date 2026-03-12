@@ -1,0 +1,3 @@
+101,50,Pabellon,Asado Negro con Arroz,Quesillo,Lunes,09/02/2026
+100,30,Arepa,Pasta,Helado,Martes,10/02/2026
+102,20,Empanada,Pasticho,Melocotón en Almibar,Miercoles,11/2/2026
